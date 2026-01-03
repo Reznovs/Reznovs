@@ -11,6 +11,5 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Reznovs&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="GitHub Stats" />
 
 </div>
