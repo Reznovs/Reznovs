@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 你好，我是 Reznovs
+# 👋 HI，IM Reznovs
 
 🔐 网络安全 | 🐍 Python | 💻 C#
 
